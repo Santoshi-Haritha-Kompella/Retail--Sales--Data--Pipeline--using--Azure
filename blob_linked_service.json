@@ -1,0 +1,9 @@
+{
+  "name": "BlobStorageLinkedService",
+  "properties": {
+    "type": "AzureBlobStorage",
+    "typeProperties": {
+      "connectionString": "DefaultEndpointsProtocol=https;AccountName=your_account;AccountKey=your_key;"
+    }
+  }
+}
