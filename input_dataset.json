@@ -1,0 +1,9 @@
+{
+  "name": "InputDataset",
+  "properties": {
+    "linkedServiceName": {
+      "referenceName": "BlobStorageLinkedService",
+      "type": "LinkedServiceReference"
+    }
+  }
+}
